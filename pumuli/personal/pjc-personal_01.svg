@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="8.5in"
+   height="11in"
+   viewBox="0 0 215.9 279.4"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   sodipodi:docname="pjc-personal_01.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#1850eb"
+     inkscape:document-units="mm"
+     inkscape:zoom="2.1779409"
+     inkscape:cx="135.21947"
+     inkscape:cy="209.37208"
+     inkscape:window-width="1720"
+     inkscape:window-height="1371"
+     inkscape:window-x="1720"
+     inkscape:window-y="32"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg1"
+     inkscape:export-bgcolor="#f6f6fc00"
+     showgrid="true">
+    <inkscape:grid
+       id="grid2"
+       units="mm"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <color-profile
+       name="Blue"
+       xlink:href="file:///app/share/color/icc/colord/Bluish.icc"
+       id="color-profile2" />
+    <color-profile
+       name="Artifex-Software-esRGB-ICCProfile"
+       xlink:href="file:///app/share/color/icc/ghostscript/esrgb.icc"
+       id="color-profile3" />
+  </defs>
+  <rect
+     style="fill:#0000ff;stroke-width:0.264583"
+     id="rect2"
+     width="60"
+     height="64.142998"
+     x="-8.3287506"
+     y="-2.308181" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-79.554578,-80.160271)">
+    <text
+       xml:space="preserve"
+       style="font-size:8.53784px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#e6e6e6;stroke-width:0.457384"
+       x="93.077911"
+       y="81.816544"
+       id="text1"
+       transform="scale(0.93973964,1.0641245)"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="font-size:8.53784px;fill:#e6e6e6;stroke-width:0.457384"
+         x="93.077911"
+         y="81.816544">pulumi</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.0302px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#e6e6e6;stroke-width:0.457384"
+       x="78.615753"
+       y="118.74078"
+       id="text2"
+       inkscape:export-filename="text1.png"
+       inkscape:export-xdpi="601.63361"
+       inkscape:export-ydpi="601.63361"
+       transform="scale(0.93973964,1.0641245)"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.0302px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.457384"
+         x="78.615753"
+         y="118.74078">pjc</tspan></text>
+  </g>
+</svg>
