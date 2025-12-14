@@ -9,6 +9,9 @@
    id="svg1"
    inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
    sodipodi:docname="pjc-personal_02.svg"
+   inkscape:export-filename="pjc-personal_02.png"
+   inkscape:export-xdpi="601.63361"
+   inkscape:export-ydpi="601.63361"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -31,9 +34,17 @@
      inkscape:window-x="1720"
      inkscape:window-y="32"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="svg1" />
   <defs
      id="defs1" />
+  <rect
+     style="fill:#4f46e5;stroke-width:0.264583;fill-opacity:1"
+     id="rect1"
+     width="69.672943"
+     height="69.927223"
+     x="24.240612"
+     y="73.061386"
+     transform="translate(-24.077084,-73.024997)" />
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
